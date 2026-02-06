@@ -1,38 +1,40 @@
 <h1 align="center">Ümit Uygur</h1>
+
 <p align="center">
-🚀 Backend & Frontend Developer
+Backend ağırlıklı • Full-stack geliştirmeye yakın
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,html,css,git" />
+ASP.NET Core • C# • JavaScript • REST API
 </p>
 
 ---
 
-## 🧩 Projects
-🔹 **ASP.NET Core Web API**  
-Clean code, katmanlı mimari, backend denemeleri
+## Hakkımda
+Backend tarafında ASP.NET Core ile API geliştirme üzerine çalışıyorum.  
+Katmanlı mimari, clean code ve öğrenerek üretme odaklı ilerliyorum.  
+Frontend tarafında temel seviyede projeler ve UI clone’lar geliştiriyorum.
 
-🔹 **TaskCollaboration**  
+---
+
+## Projeler
+**ASP.NET Core Web API**  
+Clean code ve katmanlı mimari denemeleri
+
+**TaskCollaboration**  
 .NET 8 tabanlı task & ekip yönetimi backend
 
-🔹 **cosmo-shop**  
+**cosmo-shop**  
 Basit e-ticaret frontend denemeleri  
-**Tech:** JavaScript, HTML, CSS
+(JavaScript, HTML, CSS)
 
-🔹 **audi-clone**  
+**audi-clone**  
 UI/UX odaklı frontend clone  
-**Tech:** HTML, CSS
+(HTML, CSS)
 
 ---
 
-## 🎯 Focus
-⚡ API development  
-⚡ Backend architecture  
-⚡ Frontend fundamentals
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umituygur34&show_icons=true&theme=tokyonight" />
-</p>
+## Odaklandıklarım
+- API geliştirme
+- Backend mimari
+- Frontend temelleri

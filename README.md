@@ -1,41 +1,40 @@
-<h1 align="center">Ümit Uygur 🚀</h1>
+<h1 align="center">Ümit Uygur 👋</h1>
+<h3 align="center">Backend Developer • .NET & ASP.NET Core</h3>
 
 <p align="center">
-💻 Backend & Frontend Developer  
-</p>
-
-<p align="center">
-⚙️ ASP.NET Core • C# • JavaScript • REST API  
-🎨 HTML • CSS • UI/UX Experiments
+Clean Architecture • REST API • EF Core • Scalable Systems
 </p>
 
 ---
 
-## 🧠 Hakkımda
-Backend tarafında **ASP.NET Core** ile API geliştirmeye odaklanıyorum.  
-🏗️ Katmanlı mimari & clean code öğreniyorum.  
-🎨 Frontend tarafında temel projeler ve clone çalışmalarım var.
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,docker,js,git" />
+</p>
 
 ---
 
-## 🧩 Projeler
-🔹 **AspNetCoreWebApi**  
-⚙️ Clean code, katmanlı mimari, backend denemeleri  
+## 🧩 Featured Projects
+### 🔹 AspNetCoreWebApi
+Clean Architecture yaklaşımıyla geliştirilmiş RESTful API  
+**Tech:** ASP.NET Core, EF Core, PostgreSQL
 
-🔹 **TaskCollaboration**  
-🧠 .NET 8 tabanlı task & ekip yönetimi backend  
-
-🔹 **cosmo-shop**  
-🛒 Basit e-ticaret frontend denemeleri  
-🧪 JavaScript, HTML, CSS  
-
-🔹 **audi-clone**  
-🎨 UI/UX odaklı frontend clone  
-🧪 HTML, CSS  
+### 🔹 TaskCollaboration
+Task & ekip yönetimi için backend servis  
+**Tech:** .NET 8, Web API, Clean Code
 
 ---
 
-## 🎯 Şu an odak
-⚡ API development  
-⚡ Backend architecture  
-⚡ Frontend fundamentals
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umituygur34&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Focus
+- Backend architecture
+- API performance & scalability
+- Clean & maintainable code
+
+📫 GitHub üzerinden iletişime geçebilirsin
